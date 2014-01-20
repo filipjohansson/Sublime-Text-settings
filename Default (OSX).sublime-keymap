@@ -1,0 +1,4 @@
+[
+{ "keys": ["super+'"], "command": "toggle_comment", "args": { "block": false } },
+{ "keys": ["super+shift+'"], "command": "toggle_comment", "args": { "block": true } }
+]

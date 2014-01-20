@@ -1,0 +1,27 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Auto Semi-Colon",
+		"Base16 Color Schemes",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Emmet",
+		"Emmet Css Snippets",
+		"GitGutter",
+		"jQuery",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Razor",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}
