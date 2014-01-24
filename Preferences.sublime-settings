@@ -42,8 +42,8 @@
 		"CVS",
 		".sass-cache"
 	],
-	"font_face": "Source Code Pro Medium",
-	"font_size": 12.0,
+	"font_face": "Source Code Pro Light",
+	"font_size": 13.0,
 	"highlight_line": true,
 	"hot_exit": false,
 	"ignored_packages":
