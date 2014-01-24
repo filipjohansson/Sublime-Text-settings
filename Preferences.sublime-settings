@@ -48,12 +48,7 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"HTML2Haml",
-		"Wordpress",
-		"Terminal",
-		"Synchronized File Scrolling",
-		"SublimeCodeIntel",
-		"Smart Match"
+
 	],
 	"indent_guide_options":
 	[
