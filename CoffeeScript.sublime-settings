@@ -1,3 +1,5 @@
 {
-	"compileOnSave": false
+	"compileOnSave": false,
+    "envPATH": "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "watchOnSave": true
 }

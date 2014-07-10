@@ -3,9 +3,12 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"All Autocomplete",
+		"AngularJS",
 		"Base16 Color Schemes",
 		"Better CoffeeScript",
 		"BracketHighlighter",
+		"Color Highlighter",
 		"DocBlockr",
 		"Emmet",
 		"Emmet Css Snippets",
